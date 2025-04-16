@@ -7,7 +7,7 @@ Passionate about humanist and care-oriented GIS, particularly how we may apply c
 # Education
 
 **University of Washington**, Seattle, Washington *(2020-2024)*
-BA(w/ Honors), Major in Geography: Data Science, Minor in Urban Design & Planning
+BA (w/ Honors), Major in Geography: Data Science, Minor in Urban Design & Planning
 
 **University of Washington**, Seattle, Washington *(2024-2026)*
 MA, Geography
